@@ -3,3 +3,7 @@
 ################################################################################
 
 /DevJobs.API/.vs/DevJobs.API
+/DevJobs.API/bin/Debug/net6.0
+/DevJobs.API/obj
+/DevJobs.API/appsettings.json
+/DevJobs.API/appsettings.Development.json
